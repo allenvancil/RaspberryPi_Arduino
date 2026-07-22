@@ -48,7 +48,7 @@ nano MySketch.ino
 ```
 #### complile:
 ```
-arduino-cli compile --fqbn arduino:avr:nano temp_relay.ino
+arduino-cli compile --fqbn arduino:avr:nano MySketch.ino
 ```
 #### upload: 
 ``` 
