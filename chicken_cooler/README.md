@@ -39,9 +39,10 @@ mycode is your sketch
 ```
 arduino-cli sketch new mycode 
 ```
+```
 cd mycode
 ```
-~/mycode$
+~/mycode$   
 ```
 nano MySketch.ino
 ```
